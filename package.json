@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.4",
+    "react-toastify": "^8.1.0",
+    "sass": "^1.49.0"
+  }
+}
